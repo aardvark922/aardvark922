@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Cicy
-- 👀 I’m interested in experimental economics
-- 🌱 I’m currently learning oTree
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Cicy, a PhD candidate in Economics from Purdue University.
+- 👀 I’m interested in experimental economics, behavioral economcis, public economics and applied microeconomics...
 - 📫 How to reach me: jin334@purdue.edu
 
 <!---
